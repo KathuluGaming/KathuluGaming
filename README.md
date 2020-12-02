@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Kathulu</h1>
-
+<p align="center">
   <a href="https://github.com/kathulugaming">
     <img alt="hypews' github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-
+</p>
 <br/>
 
 <p align="center">
